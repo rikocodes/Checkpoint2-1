@@ -1,0 +1,21 @@
+.my-profile{
+    width: 200px;
+}
+div{
+    background-color: brown;
+
+}
+h1{
+    text-align: center;
+    text-decoration-color: black;
+    font-size: 1000%;
+
+}
+img{
+    border: 1000pt;
+    padding: 1em;
+    text-align: center;
+    margin: 50px;
+    width: 200px;
+    height: 100px;
+}
